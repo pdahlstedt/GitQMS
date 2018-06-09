@@ -12,5 +12,5 @@ QMS
 # Artifacts
 * Product Breakdown Structure
 * Readme
-* [Requirements](./requirements.md)
+* [Requirements](./Requirements.md)
 * Personas
